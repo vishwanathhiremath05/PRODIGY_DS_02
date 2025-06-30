@@ -1,6 +1,4 @@
-Sure! Here's a detailed project-style description in the same format as your example, but for the **Titanic Gender and Age Distribution Visualization** project based on the code you shared:
 
----
 
 ### 🚢 PRODIGY_DS_01 – Titanic Gender and Age Distribution Visualization
 
