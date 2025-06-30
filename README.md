@@ -1,8 +1,6 @@
 
-
-🚢 **PRODIGY_DS_0 – Titanic Gender Distribution Visualization**
-This project visu
-alizes the gender distribution of passengers aboard the Titanic using Python. It focuses on creating a bar chart representation based on the `'Sex'` column in the dataset.
+🚢 **PRODIGY_DS_02 – Titanic Gender Distribution Visualization**
+This project visuaizes the gender distribution of passengers aboard the Titanic using Python. It focuses on creating a bar chart representation based on the `'Sex'` column in the dataset.
 
 ### 📁 Dataset File Used
 
@@ -64,5 +62,4 @@ python titanic_gender_visualization.py
 
 **Vishwanath Hiremath**
 GitHub: [@vishwanathhiremath05](https://github.com/vishwanathhiremath05)
-
 
